@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=37DCFF&width=435&lines=Programming+;Exploring;Learning;Gaming)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=37DCFF&width=435&lines=Programming+;Exploring;Learning;Gaming)](https://github.com/DynamicApproach?tab=repositories)
 #### Reach out and say hey!
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/FailedToParse.svg?style=social&label=%20%40FailedToParse)](https://twitter.com/FailedToParse)
 
@@ -13,7 +13,7 @@ Always happy to talk about different projects, code or games!
 - 🐕 Always hanging out with my dog
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamicapproach&layout=compact&show_icons=true&card_width=300px&card_height=400px&theme=radical#gh-dark-mode-only)](https://github.com/DynamicApproach?tab=repositories)
-[![GitHub Streak](https://streak-stats.demolab.com?user=DynamicApproach&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=3F40DD&background=00000042&sideLabels=17DDA&c)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DynamicApproach&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=3F40DD&background=00000042&sideLabels=17DDA&c)](https://github.com/DynamicApproach?tab=repositories)
 
 <!--START_SECTION:waka-->
 
