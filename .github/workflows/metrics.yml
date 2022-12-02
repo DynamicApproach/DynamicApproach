@@ -42,11 +42,11 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md
-          plugin_isocalendar: no
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/calendar/README.md
-          plugin_calendar: yes
+          plugin_calendar: no
           plugin_calendar_limit: 0
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/achievements/README.md
@@ -59,7 +59,7 @@ jobs:
           plugin_languages_colors: rainbow
           plugin_languages_threshold: 2%
           # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-          template: repository
+          template: classic
           base_indepth: yes
           config_octicon: yes
           plugin_repositories: yes
