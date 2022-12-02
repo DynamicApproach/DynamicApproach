@@ -15,7 +15,6 @@ jobs:
         with:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          config_output: png
           token: ${{ secrets.METRICS_TOKEN }}
           repositories: 1000
           retries: 10
