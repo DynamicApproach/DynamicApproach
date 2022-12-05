@@ -12,7 +12,7 @@ Always happy to talk about different projects, code or games!
 - ☀️ Fun fact: I LOVE self-hosted apps
 - 🐕 Always hanging out with my dog
 
-[![metrics](/github-metrics.svg)]()   [![GitHub Streak](https://streak-stats.demolab.com?user=DynamicApproach&theme=dark&hide_border=true&border=0d1117&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=3F40DD&background=0d1117&sideLabels=17DDA&c)](https://github.com/DynamicApproach?tab=repositories)
+[![metrics](/github-metrics.svg)]()  [![GitHub Streak](https://streak-stats.demolab.com?user=DynamicApproach&theme=dark-smoky&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&border=00000000&background=00000000&stroke=9C13CB&ring=9412C1D5&fire=C46B2E&currStreakNum=36FEA9&sideNums=825AFFEA&currStreakLabel=FF36F0EA&sideLabels=825AFFEA&dates=825AFFEA)](https://github.com/DynamicApproach?tab=repositories)
   
   ---------------------------------
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamicapproach&layout=compact&show_icons=true&card_width=300px&card_height=400px&theme=radical#gh-dark-mode-only)](https://github.com/DynamicApproach?tab=repositories)
