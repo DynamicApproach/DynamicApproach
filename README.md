@@ -21,14 +21,14 @@ Always happy to talk about different projects, code or games!
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 November 2022 - To: 26 March 2023
+From: 20 November 2022 - To: 27 March 2023
 
-Total Time: 182 hrs 32 mins
+Total Time: 183 hrs 3 mins
 
-Java             80 hrs 17 mins  >>>>>>>>>>>--------------   43.99 %
-Python           20 hrs 53 mins  >>>----------------------   11.45 %
-Markdown         16 hrs 40 mins  >>-----------------------   09.14 %
-Other            16 hrs 28 mins  >>-----------------------   09.02 %
+Java             80 hrs 49 mins  >>>>>>>>>>>--------------   44.15 %
+Python           20 hrs 53 mins  >>>----------------------   11.41 %
+Markdown         16 hrs 40 mins  >>-----------------------   09.11 %
+Other            16 hrs 28 mins  >>-----------------------   09.00 %
 ```
 
 <!--END_SECTION:waka-->
