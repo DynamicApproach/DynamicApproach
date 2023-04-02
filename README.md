@@ -21,7 +21,7 @@ Always happy to talk about different projects, code or games!
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 November 2022 - To: 30 March 2023
+From: 20 November 2022 - To: 31 March 2023
 
 Total Time: 183 hrs 3 mins
 
