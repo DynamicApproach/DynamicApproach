@@ -31,17 +31,17 @@
   </div>
 </div>
 </div>
-
-<div style="display:flex; flex-wrap:wrap; justify-content:center; margin-top:50px;">
-  <div style="flex:1; width:100%; max-width:600px;">
-    <img src="https://raw.githubusercontent.com/DynamicApproach/DynamicApproach/main/github-metrics.svg" alt="GitHub Metrics" />
-  </div>
-
-  <div style="flex:1; width:100%; max-width:600px;">
-    <a href="https://github.com/DynamicApproach?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamicapproach&layout=compact&show_icons=true&card_width=300px&card_height=400px&theme=radical#gh-dark-mode-only" alt="Top Langs" />
-    </a>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://raw.githubusercontent.com/DynamicApproach/DynamicApproach/main/github-metrics.svg">
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamicapproach&layout=compact&show_icons=true&card_width=300px&card_height=400px&theme=radical#gh-dark-mode-only">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
