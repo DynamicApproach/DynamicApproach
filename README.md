@@ -32,7 +32,7 @@
 </div>
 </div>
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td valign="top">
         <img src="https://raw.githubusercontent.com/DynamicApproach/DynamicApproach/main/github-metrics.svg">
