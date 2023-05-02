@@ -10,6 +10,8 @@
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white"></a>
 [![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=c&logoColor=white)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 
+---
+
 <div style="display:flex; flex-direction:column; align-items:center;">
   <div style="flex:1; width:100%; max-width:600px;">
     <p>Always happy to talk about different projects, code or games!</p>
@@ -31,8 +33,9 @@
   </div>
 </div>
 </div>
+
 <div align="center">
-  <table border="0">
+  <table style="border-collapse: collapse; border: none;">
     <tr>
       <td valign="top">
         <img src="https://raw.githubusercontent.com/DynamicApproach/DynamicApproach/main/github-metrics.svg">
@@ -43,8 +46,6 @@
     </tr>
   </table>
 </div>
-
----
 
 <!--START_SECTION:waka-->
 
@@ -60,5 +61,3 @@ Other            16 hrs 55 mins  >>-----------------------   08.05 %
 ```
 
 <!--END_SECTION:waka-->
-
----
