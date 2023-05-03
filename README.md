@@ -9,7 +9,6 @@
 <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white"></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white"></a>
 [![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
-//add
 
 ---
 
