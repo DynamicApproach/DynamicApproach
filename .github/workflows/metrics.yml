@@ -36,7 +36,7 @@ jobs:
           plugin_wakatime_days: 14
           plugin_wakatime_limit: 14
           plugin_wakatime_repositories_visibility: public
-          plugin_wakatime_sections: time, projects, languages,  editors, os, languages-graphs
+          plugin_wakatime_sections: time, projects, languages,  editors, os-graphs
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md
@@ -53,7 +53,7 @@ jobs:
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
           plugin_languages: no
-          plugin_languages_limit: 5
+          plugin_languages_limit: 10
           plugin_languages_colors: rainbow
           plugin_languages_threshold: 2%
           # Visit https://github.com/lowlighter/metrics#-documentation for full reference
