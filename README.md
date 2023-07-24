@@ -4,6 +4,7 @@
 
 <a href="https://twitter.com/FailedToParse"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FailedToParse?style=social"></a>
 <a href="https://dynamicapproach.dev"><img alt="Website" src="https://img.shields.io/website?label=dynamicapproach.dev&style=flat-square&url=https%3A%2F%2Fdynamicapproach.dev"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=DynamicApproach.purple-night-tlj"><img alt="VSCode Theme" src="https://img.shields.io/badge/Try_my_custom-VSCode_Theme-8A2BE2"></a>
 <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react"></a>
 <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=white"></a>
 <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white"></a>
@@ -22,7 +23,7 @@
      🧑‍💻 IntelliJ is my go-to IDE
      💬 Ask me about Java, C, JavaScript or even 3D printing!
      ☀️ Fun fact: I LOVE self-hosted apps
-     🐕 Always hanging out with my dog
+     🐕 Always hanging out with my dogs
 
   </div>
 
@@ -46,7 +47,9 @@
     </tr>
   </table>
 </div>
-
+<div style="font-size: 10px; text-align: center; margin-top: 10px;">
+  <p>NOTE: WakaTime does not account for time spent in VMs.</p>
+</div>
 <!--START_SECTION:waka-->
 
 ```txt
