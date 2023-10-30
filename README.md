@@ -55,7 +55,7 @@
 ```txt
 From: 20 November 2022 - To: 28 October 2023
 
-Total Time: 621 hrs 44 mins
+Total Time: 627 hrs 54 mins
 
 Other             211 hrs 8 mins  >>>>>>>>-----------------   33.96 %
 Java              119 hrs 10 mins >>>>>--------------------   19.17 %
